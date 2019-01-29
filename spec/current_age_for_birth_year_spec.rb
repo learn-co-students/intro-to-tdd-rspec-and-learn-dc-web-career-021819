@@ -9,4 +9,3 @@ describe "current_age_for_birth_year method" do
   2003 - birth_year
 end
 end
-end
